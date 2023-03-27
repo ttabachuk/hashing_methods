@@ -6,4 +6,5 @@ The program will test the following methods:
   - Linear Probing
   - Double Hashing
   - Chain hashing
+  :
 The program will then output the number of collisions that occur per name and the collision frequency for all three methods.
